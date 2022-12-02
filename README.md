@@ -56,9 +56,9 @@ _The main hours spent on the project for each person is expected to be ~30(?) ho
 </ul>
  
  
- Project Topic – Smart Vehicle
- 
-1.  Users:RTO Officer,User,Police
+ Project Topic – Smart Vehicle<br/>
+ 
+1.  Users:RTO Officer,User,Police<br/>
 2.  https://github.com/sindhuharish017/smartvehicle/blob/master/Driving%20license%20controllered%20smart%20vehicle.pdf <br/>
        
        
