@@ -9,7 +9,7 @@
     <li>Shruthi D</li>   
     <li>Varshitha J C</li>   
 </ul>
-## DL Controllered Smart Vehicle
+## DL Controlled Smart Vehicle
 Github url: https://github.com/sindhuharish017/smartvehicle<br/> 
 Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3E%3D+-30d+order+by+created+DESC&atlOrigin=eyJpIjoiMDAxNDUzODhkMDJhNDMzNmJjMjkwOTI2NDY1NDQ2YTMiLCJwIjoiaiJ9
 ## Technologies
