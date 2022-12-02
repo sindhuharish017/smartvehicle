@@ -62,7 +62,6 @@ _The main hours spent on the project for each person is expected to be ~30(?) ho
 2.  https://github.com/sindhuharish017/smartvehicle/blob/master/Driving%20license%20controllered%20smart%20vehicle.pdf <br/>
        
        
-Snaps:
-
-https://github.com/sindhuharish017/smartvehicle/tree/master/Screenshots
+Snaps:<br/>
+1. https://github.com/sindhuharish017/smartvehicle/tree/master/Screenshots
 
