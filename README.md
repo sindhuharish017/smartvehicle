@@ -28,10 +28,13 @@ Daily Scrum meeting – We holded a daily meeting every day to check everyone’
     <li>Project management and Task Distribution was handled through JIRA PROJECT MANAGEMENT TOOL </li>
     <li>Attachment of workflow process: https://github.com/sindhuharish017/smartvehicle/blob/master/Jira%20(1).csv</li>
 </ul>  
+<br/>
+<br/>
 ## Project analysis and development
 Task assigned: In general, the project has 3 main parts which is: RTO Officer, User and Police. After discussions, finalized the features and organized data storage we separated the project into 3 main modules.
 <br/>
 Github was used to organized and sharing source code.
+<br/>
 ## Project Requirements
 This is an engineering proof of concept. The goal is to exercise the Spring MVC/Boots technology according to “training” guidelines to validate its use in future projects. 
 <p>
