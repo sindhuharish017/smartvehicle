@@ -22,20 +22,25 @@ Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3
   
 </ul>
 ## Scrum/Agile Development Process 
+<br/>
 Daily Scrum meeting – We holded a daily meeting every day to check everyone’s status if you need any help. 
-## Task Assignment
+<br/>
+## Task Assignment:
+<br/>
 <ul>
     <li>Project management and Task Distribution was handled through JIRA PROJECT MANAGEMENT TOOL </li>
     <li>Attachment of workflow process: https://github.com/sindhuharish017/smartvehicle/blob/master/Jira%20(1).csv</li>
 </ul>  
 <br/>
 <br/>
-## Project analysis and development
+## Project analysis and development:
+<br/>
 Task assigned: In general, the project has 3 main parts which is: RTO Officer, User and Police. After discussions, finalized the features and organized data storage we separated the project into 3 main modules.
 <br/>
 Github was used to organized and sharing source code.
 <br/>
-## Project Requirements
+## Project Requirements:
+<br/>
 This is an engineering proof of concept. The goal is to exercise the Spring MVC/Boots technology according to “training” guidelines to validate its use in future projects. 
 <p>
     <strong>The group consists of 5 members.</strong>
