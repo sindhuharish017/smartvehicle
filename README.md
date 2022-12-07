@@ -16,11 +16,10 @@ Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3
 </br>## Technologies
 <ul>
     <li>Spring boot MVC.</li>
-    <li>Hibernate,+ JPA as ORM.</li>
+    <li>JPA</li>
     <li>H2 in memory database.</li>
     <li>Bootstrap 4.3.1 as layout and template.</li>
-    <li>Springboot Security as authentication & authorization.</li>
-    <li>Springboot multipart support for upload file.</li>
+  
 </ul>
 ## Scrum/Agile Development Process 
 Daily Scrum meeting – We holded a daily meeting every day to check everyone’s status if you need any help. 
