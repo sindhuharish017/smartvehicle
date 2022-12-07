@@ -45,10 +45,7 @@ _The main hours spent on the project for each person is expected to be ~30(?) ho
     <li>application.properties config</li>
     <li>JSP</li>
     <li>Bootstrap</li>
-    <li>Spring Security (Database, Logout, etc)</li>
-    <li>Security authorization – interceptor, AOP</li>
-    <li>Persistence – Hibernate + Spring Data</li>
-    <li>ONLY allow In memory database (H2)</li>
+    <li>ONLY allow In-memory database (H2)</li>
     <li>CSS Library</li>
     <li>GitHub</li>    
 </ul>
