@@ -26,7 +26,6 @@ Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3
 Daily Scrum meeting – We holded a daily meeting every day to check everyone’s status if you need any help. 
 <br/>
 ## Task Assignment:
-<br/>
 <ul>
     <li>Project management and Task Distribution was handled through JIRA PROJECT MANAGEMENT TOOL </li>
     <li>Attachment of workflow process: https://github.com/sindhuharish017/smartvehicle/blob/master/Jira%20(1).csv</li>
