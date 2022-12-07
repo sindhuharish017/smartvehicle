@@ -44,8 +44,6 @@ _The main hours spent on the project for each person is expected to be ~30(?) ho
 <ul>
     <li>application.properties config</li>
     <li>JSP</li>
-    <li>Bean Validation or Spring Validator</li>
-    <li>User Validation Annotation</li>
     <li>Bootstrap</li>
     <li>Spring Security (Database, Logout, etc)</li>
     <li>Security authorization – interceptor, AOP</li>
