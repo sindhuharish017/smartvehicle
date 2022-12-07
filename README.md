@@ -21,7 +21,7 @@ Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3
     <li>Bootstrap 4.3.1 as layout and template.</li>
   
 </ul>
-## Scrum/Agile Development Process 
+## Scrum/Agile Development Process:
 <br/>
 Daily Scrum meeting – We holded a daily meeting every day to check everyone’s status if you need any help. 
 <br/>
