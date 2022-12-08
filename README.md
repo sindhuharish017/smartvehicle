@@ -15,7 +15,7 @@ Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3
 <br/>
 </br>## Technologies
 <ul>
-    <li>Spring boot MVC.</li>
+    <li>Spring boot</li>
     <li>JPA</li>
     <li>H2 in memory database.</li>
     <li>Bootstrap 4.3.1 as layout and template.</li>
