@@ -19,7 +19,9 @@ Jira Dashboard :https://team-16685803611943.atlassian.net/issues/?jql=created+%3
     <li>JPA</li>
     <li>H2 in memory database.</li>
     <li>Bootstrap 4.3.1 as layout and template.</li>
-  
+   <li>CSS</li>
+  <li>Tomcat</li>
+  <li>Maven</li>
 </ul>
 ## Scrum/Agile Development Process:
 <br/>
@@ -47,15 +49,6 @@ This is an engineering proof of concept. The goal is to exercise the Spring MVC/
 _The main hours spent on the project for each person is expected to be ~30(?) hours. Every Team member is to “own” a “front to back” scenario - View, Controller, Domain Object, Validation, Service and Repository._
 ##### Here is the list of the techniques we include in our project as a Group.
 
-## Technique 
-<ul>
-    <li>application.properties config</li>
-    <li>JSP</li>
-    <li>Bootstrap</li>
-    <li>ONLY allow In-memory database (H2)</li>
-    <li>CSS Library</li>
-    <li>GitHub</li>    
-</ul>
  
  
  Project Topic – Smart Vehicle<br/>
